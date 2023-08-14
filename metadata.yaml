@@ -1,0 +1,52 @@
+_repo: Essays-and-soliloquies_71260
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Flitch, J. E. Crawford (John Ernest Crawford)
+    alias: Flitch, John Ernest Crawford
+    birthdate: 1881
+    deathdate: 1946
+    gutenberg_agent_id: '6860'
+    url: http://www.gutenberg.org/2009/agents/6860
+creator:
+  author:
+    agent_name: Unamuno, Miguel de
+    aliases:
+    - Jugo, Miguel de Unamuno y
+    - De Unamuno, Miguel
+    birthdate: 1864
+    deathdate: 1936
+    gutenberg_agent_id: '5605'
+    url: http://www.gutenberg.org/2009/agents/5605
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Miguel_de_Unamuno
+    - https://es.wikipedia.org/wiki/Miguel_de_Unamuno
+description: ''
+gutenberg_issued: '2023-07-23'
+identifiers:
+  gutenberg: '71260'
+language: en
+pgterms:marc904: https://archive.org/details/essayssoliloquie0000unam/page/n1/mode/2up
+pgterms:marc905: 20230225061127unamuno
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Chuck Greif and the Online Distributed Proofreading Team at http://www.pgdp.net
+  (This file was produced from images available at The Internet Archive)
+publication_note: '  $aUnited States :$bAlfred A. Knopf, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Essays'
+- !lcsh 'Spain -- Civilization'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: The spirit of Castile -- Spanish individualism -- Some arbitrary
+  reflections upon Europeanization -- The Spanish Christ -- The sepulchre of Don Quixote
+  -- The helmet of Mambrino -- Don Quixote's niece -- The religion of Quixotism --
+  Large and small towns -- To my readers -- Soliloquies -- My religion -- Solitude
+  -- Intellectuality and spirituality -- The materialism of the masses -- The man
+  of flesh and bone -- The problem of immortality -- Creative faith -- The song of
+  the eternal waters -- The tower of Monterrey.
+title: Essays and soliloquies
+url: http://www.gutenberg.org/ebooks/71260
